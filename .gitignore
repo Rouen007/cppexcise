@@ -21,9 +21,10 @@
 /logs/
 
 # 忽略根目录下的””文件夹以及其子文件夹中的内容
+/.vs
 /CppProject/.vs
 
 /CppProject/CppProject/.vs
 
 /CppProject/x64
-/OpenGL/OpenGL/x64
+/CppProject/CppProject/x64
